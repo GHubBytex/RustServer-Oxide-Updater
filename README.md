@@ -14,9 +14,11 @@ C:\RustServer
 
 Not like that:
 C:\SteamCmd\
+
 C:\RustServer\
 
 Or
 
 C:\SteamCmd\steamcmd.exe
+
 C:\RustServer\
